@@ -1,0 +1,2 @@
+TOKEN = 'your token' # How to get token? Token can get in @BotFather by create bot
+PROVIDER_TOKEN = 'your payments token' # How to get token? - Token can get in @BotFather by create bot and click payments in bot menu and select provider
